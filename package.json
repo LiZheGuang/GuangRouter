@@ -1,0 +1,13 @@
+{
+	"exports": "./index.js",
+	"type": "module",
+	"dependencies": {
+		"commander": "^9.4.1",
+		"inquirer": "^9.1.4",
+		"open": "^8.4.0"
+	},
+	"devDependencies": {
+		"@types/inquirer": "^9.0.2",
+		"@types/node": "^18.11.7"
+	}
+}
